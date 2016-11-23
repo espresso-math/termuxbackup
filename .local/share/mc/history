@@ -1,0 +1,27 @@
+[mc.esc.timeout]
+0=1000000
+
+[cmdline]
+0=
+
+[Dir Hist New Right Panel]
+0=/data/data/com.termux/files
+1=/data/data/com.termux/files/home/.calcurse
+2=/data/data/com.termux/files/home
+3=/storage/otg/sda/backup_linux_pk_conf
+4=/storage/otg/sda
+5=/storage/otg
+6=/storage/sdcard0
+7=/storage
+
+[Dir Hist New Left Panel]
+0=/data/data/com.termux/files/home/mathnotes
+1=/data/data/com.termux/files/home
+2=/storage/otg/sda/backup_linux_pk_conf/user
+3=/storage/otg/sda/backup_linux_pk_conf
+4=/storage/otg/sda
+5=/storage/otg/sda/Documents
+6=/storage/otg/sda/Documents/Ebooks/Brown, Dan
+7=/storage/otg/sda/Documents/Ebooks/Classical/Cicero
+8=/storage/otg/sda/Documents/Ebooks/Classical
+9=/storage/otg/sda/Documents/Ebooks
